@@ -1,0 +1,14 @@
+{
+  "name": "serverless-api-lambda-handler",
+  "version": "1.0.0",
+  "description": "This is aws lambda serverless api handler ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar sonawane",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1461.0"
+  }
+}
